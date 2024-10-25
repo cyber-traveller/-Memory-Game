@@ -3,7 +3,7 @@
 Welcome to **Emoji Memory Game**, a fun and interactive memory game built using HTML, CSS, and JavaScript! Match all the emoji pairs to win the game.
 
 ## Table of Contents
-- [Demo](#demo)
+- [Demo](#https://memoryflipfind.netlify.app/)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
