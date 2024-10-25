@@ -12,7 +12,7 @@ Welcome to **Emoji Memory Game**, a fun and interactive memory game built using 
 - [License](#license)
 
 ## Demo
-Play the game here: [Emoji Memory Game Demo](#) _(link to live demo if available)_
+Play the game here: [Emoji Memory Game Demo](https://memoryflipfind.netlify.app/) _(link to live demo if available)_
 
 ## Features
 - **Memory Match**: Flip cards to find matching emoji pairs.
