@@ -28,23 +28,6 @@ Play the game here: [Emoji Memory Game Demo](https://memoryflipfind.netlify.app/
    cd emoji-memory-game
 
 
-Here’s a sample README.md file for your Emoji Memory Game project on GitHub:
-
-markdown
-Copy code
-# Emoji Memory Game 🎉
-
-Welcome to **Emoji Memory Game**, a fun and interactive memory game built using HTML, CSS, and JavaScript! Match all the emoji pairs to win the game.
-
-## Table of Contents
-- [Demo](#demo)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Responsive Design](#responsive-design)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Demo
 Play the game here: [Emoji Memory Game Demo](#) _(link to live demo if available)_
 
@@ -60,6 +43,7 @@ Play the game here: [Emoji Memory Game Demo](#) _(link to live demo if available
 Open the folder:
 bash
 cd emoji-memory-game
+
 ## Usage
 
 Open index.html in your browser to start the game.
@@ -82,5 +66,5 @@ Open a pull request.
 License
 This project is licensed under the MIT License.
 
-Made with 💖 by [cyber-traveller]
+Made with 💖 by [cyber-traveller](#cyber-travller)
  
